@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snakeMax
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, NodeJS and some Machine Learning
+- 👀 I’m studying IT
+- 🌱 I’m currently learning C++, Python and Machine Learning
 - 💞️ I’m looking to collaborate on bug bounties, but im inexperienced
-- 📫 Reach out to me on Discord: snakeMax#8777
+- 📫 I have experience with Python, C#, C++, Java, JavaScript (react), XAML and HTML
