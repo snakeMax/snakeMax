@@ -2,4 +2,4 @@
 - 👀 I work with IT, specifically programming and computer science
 - 🌱 I’m currently working with C++, Python, and Neural Networks
 - 💞️ I enjoy working on projects with clear structure and planning
-- 📫 I have experience with Python, C#, C++, Java, JavaScript, Game engines, and functional programming
+- 📫 I have experience with Python, C#, C++, Java, JavaScript, Game engines, functional programming, and AI
