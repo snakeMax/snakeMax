@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snakeMax
-- 👀 I’m studying IT
-- 🌱 I’m currently learning C++, Python and Machine Learning
-- 💞️ I’m looking to collaborate on bug bounties, but im inexperienced
-- 📫 I have experience with Python, C#, C++, Java, JavaScript (react), XAML and HTML
+- 👀 I work with IT, specifically programming and computer science
+- 🌱 I’m currently working with C++, Python, and Neural Networks
+- 💞️ I enjoy working on projects with clear structure and planning
+- 📫 I have experience with Python, C#, C++, Java, JavaScript, Game engines, and functional programming
